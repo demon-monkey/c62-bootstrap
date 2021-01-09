@@ -1,0 +1,25 @@
+html{
+scroll-behavior: smooth;
+}
+body{
+background-color: linear-gradient(green ,aqua,blue);
+text-align:center;
+}
+img{
+transition: transform 2s;
+
+}
+img:hover{
+    transform:translate(10px);
+}
+#my_carousel{
+    background-color: blueviolet;
+    
+}
+#my_carousel img{
+    margin-top: 30px;    
+}
+
+p{
+    color: white;
+}
